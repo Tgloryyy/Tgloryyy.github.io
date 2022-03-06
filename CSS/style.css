@@ -35,8 +35,9 @@ h1,h2,h3{
     margin: 0;
 }
 #glow{
-    width: 35rem;
-    height: 40rem;
+    width: 25rem;
+    height: 25rem;
+    border-radius: 100%;
 }
 img{
     width: 100%;
